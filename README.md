@@ -13,7 +13,7 @@
 | storage1  | storage1.cloud.org | 192.168.10.4 | 10.0.0.4   |
 
 ## Роли серверов
-![тестовое изображение] (https://github.com/mzubarik/rebrain-devops-task1/blob/main/images/Logo/Belarus.jpg)
+![тестовое изображение](https://github.com/mzubarik/rebrain-devops-task1/blob/main/images/Logo/Belarus.jpg)
 
 - **Backup(n)**: Серверы для резервного копирования. Управляют процессом создания резервных копий и их восстановлением.
 - **Storage(n)**: Серверы хранения данных. Обеспечивают долговременное хранение резервных копий.
